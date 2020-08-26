@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HæveautomatTestDrivenDevelopment", "HæveautomatTestDrivenDevelopment.csproj", "{0B9AED24-7BB6-4969-97AC-5B3ACD1F25B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hæveautomat.Tests", "Hæveautomat.Tests\Hæveautomat.Tests.csproj", "{2C57BD2F-C583-4276-833D-A0D34AE96F63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C29DDDF-B240-4B3A-80BF-E365D54427EB}"
+	ProjectSection(SolutionItems) = preProject
+		Hæveautomat Use Case.docx = Hæveautomat Use Case.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9AED24-7BB6-4969-97AC-5B3ACD1F25B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9AED24-7BB6-4969-97AC-5B3ACD1F25B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9AED24-7BB6-4969-97AC-5B3ACD1F25B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9AED24-7BB6-4969-97AC-5B3ACD1F25B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C57BD2F-C583-4276-833D-A0D34AE96F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C57BD2F-C583-4276-833D-A0D34AE96F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C57BD2F-C583-4276-833D-A0D34AE96F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C57BD2F-C583-4276-833D-A0D34AE96F63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D702271D-C6F4-4B15-9A69-A96B917892F9}
+	EndGlobalSection
+EndGlobal
