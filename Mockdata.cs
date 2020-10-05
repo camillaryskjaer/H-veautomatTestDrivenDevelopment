@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace HæveautomatTestDrivenDevelopment
 {
+    HVad bruger du denne klasse til??
     public class Mockdata
     {
         public static List<Account> accounts = new List<Account>()
